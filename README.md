@@ -20,3 +20,9 @@ pip install -r requirements.txt
 - `one_qubit.py`: one qubit teleportation for warmup
 - `two_qubit.py`: two qubit teleportation for even more warmup
 - `generalized.py`: teleportation for n-qubit
+
+## TODO
+- Algorithm for encoding a run with smaller number of qubits using Schur-Weyl
+  transformation
+- Algorithm for detecting runs
+- Combine previous two algorithms to compress data
