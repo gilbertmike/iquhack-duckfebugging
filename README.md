@@ -26,3 +26,9 @@ pip install -r requirements.txt
   transformation
 - Algorithm for detecting runs
 - Combine previous two algorithms to compress data
+
+## Authors
+- Kerlina Liu (kerlina@mit.edu or broccoli@mit.edu)
+- Michael Gilbert (gilbertm@mit.edu)
+- Muye "Willers" Yang (willers@mit.edu)
+- Sabina Tontici (stontici@mit.edu)
